@@ -1,1 +1,3 @@
 # know.github.io
+
+A simple web application which is written in Vanilla Javascript tells what your friends think about you...
